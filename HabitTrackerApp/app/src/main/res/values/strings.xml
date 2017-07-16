@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+    <string name="save">save</string>
+    <string name="delete_db">Delete DB</string>
+</resources>
