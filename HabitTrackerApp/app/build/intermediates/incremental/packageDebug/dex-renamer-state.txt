@@ -1,0 +1,7 @@
+#Sun Jul 16 13:07:40 BST 2017
+base.0=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc4fd621cd4093caf120e335c970c5799ec1f492
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3cd40829d67e144fa5d47030681ee583170d57e5\\classes.dex
+base.1=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3cd40829d67e144fa5d47030681ee583170d57e5
+file.0=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc4fd621cd4093caf120e335c970c5799ec1f492\\classes.dex

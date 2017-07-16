@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

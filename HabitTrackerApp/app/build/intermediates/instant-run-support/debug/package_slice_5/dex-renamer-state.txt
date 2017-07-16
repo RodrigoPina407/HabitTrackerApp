@@ -1,0 +1,4 @@
+#Sun Jul 16 13:07:40 BST 2017
+base.0=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rodrigo\\AndroidStudioProjects\\HabitTrackerApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
